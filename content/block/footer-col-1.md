@@ -1,3 +1,4 @@
-#### Footer col 1
+#### Länkar till sociala medier
 
-Med brödtext i ett stycke som säger något trevligt om just detta block, eller kanske en lista av länkar.
+[Facebook](https://www.facebook.com/Vickexx/)
+[Instagram](https://www.instagram.com/lundberg.v/?hl=sv)

@@ -1,27 +1,17 @@
 ---
-title: "Min fina titel"
+title: "Me-sida oophp"
 ---
-Min me-sida i kursen oophp
+Välkommen till min me-sida till kursen oophp
 =========================
 
-Detta innehåll är skrivet i markdown och du hittar innehållet i filen `content/index.md`.
+Här är min me-sida till kursen oophp. Denna sidan innehåller en kort presentation om mig själv.
 
-[FIGURE src="image/me.jpg?w=400&a=4,27,11,0&cf&sharpen" class="right" caption="Bild på mig, ätandes glass och hållandes ett kort på någon jultillställning."]
+[FIGURE src="image/viktor-me2.jpg?w=400&a=5,24,24,24&cf&sharpen" class="right" caption="Bild på Viktor Lundberg"]
 
-Detta är min me-sida i kursen. Denna sidan innehåller en presentation av mig själv. Underhåll denna sidan under hela kursen och uppdatera den efter hand och behov.
+Mitt namn är Viktor Lundberg och jag kommer från Malmö. Har bott i Karlskrona de senaste åren då jag till en början flyttade hit för att studera till civilingenjör. Utbildningen passade inte riktigt mig och jag hoppade av, jobbade i något år och valde sedan att hoppa på denna kursen för att fortsätta mina studier.
 
-Så, en presentation en bra början. Skriv några ord om dig själv. Jag börjar.
+Har alltid haft stort intresse av teknik och allt som hör där till. Jag spenderar mycket tid framför datorn, är det inte plugg så spelar jag spel och har även spenderat mycket tid på nätpoker som jag levde på under en längre tid.
 
-Mitt namn är Mikael Roos. Född och uppvuxen i Bankeryd, Småland, strax utanför Jönköping, i ett villaområde som byggdes upp samtidigt som vi flyttade in där. Jag gillade landhockey och har spelat bandy och hockey samt gått bowlinggymnasiet i Nässjö. Jag har varit städare, diskare, kallskänka, servitör och kock. På ett bananskal landade jag i Ronneby när jag började högskolan 1990 där och nu är jag kvar med fru, barn och så vidare.
+Jag programmerade för första gången när jag var runt 10 års åldern då jag skrev mitt första Hello World program i Java. Min pappa jobbar som systemutvecklare och det är där jag fått intresse för programmering redan från ung ålder.
 
-Programmering har alltid intresserat mig sedan 13-årsåldern och min första dator var en Spectravideo 328 med bandspelare.
-
-Om jag skall nämna någon hobby, förutom webbprogrammering, så får det bli att bära sten på sommarstugetomten, och det finns sten så det räcker och blir över.
-
-Till och från får jag för mig att börja på lite hobbies, ett år satsade jag på pokerspel, ett annat år var det geocaching, sedan turfing och nu på sistone verkar släktforskning lite spännande. Annars kan jag alltid koda på något av mina opensource-projekt, det finns och blir över.
-
-Vill du läsa mer om vad jag jobbat med så kan du kika på min [Linkedin-profil](https://www.linkedin.com/in/pt90mr/).
-
-Vi syns och hörs i forum och chatt!
-
-/Mikael
+När jag inte spenderar tid framför datorn så tar jag golfklubborna ut på banan och spelar några hål. Golfen har alltid varit en del av mitt liv även fast jag inte spelar så mycket som jag borde nu för tiden.

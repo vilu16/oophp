@@ -1,3 +1,3 @@
-#### Footer col 3
+#### Om Viktor Lundberg
 
-Med brödtext i ett stycke som säger något trevligt om just detta block, eller kanske en lista av länkar.
+Viktor Lundberg är 25 år och bor i Karlskrona men kommer ursprungligen från Malmö. En syster och skilda föräldrar som båda har nya familjer vilket gör att han har många nära och kära till hands. Studerar webbutveckling på BTH och jobbar deltid på PostNord.

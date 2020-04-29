@@ -4,7 +4,7 @@ views:
         region: sidebar-right
         template: anax/v2/block/default
         data:
-            meta: 
+            meta:
                 type: single
                 route: block/om-kursrepo
 
@@ -12,17 +12,15 @@ views:
         region: sidebar-right
         template: anax/v2/block/default
         data:
-            meta: 
+            meta:
                 type: single
                 route: block/om-redovisa
 ---
-Om
+Om kursen oophp
 =========================
 
-Detta innehåll är skrivet i markdown och du hittar innehållet i filen `content/om.md`.
+Här kommer några korta ord om kursen oophp.
 
-Skriv några kloka ord om kursen?
+I denna kursen kommer vi vidare jobba med php som vi läst sedan innan men göra det genom objekt orientering. Efter att ha jobbat med objekt orientering i andra språk och efter att ha jobbat med php sedan innan ser jag fram emot att kombinera detta språk med programmeringsstrukturen objekt orientering då det känns som ett effektivare sätt att skriva kod på.
 
-Lägg till en fin och representativ bild för kursen, enligt ditt eget val.
-
-[FIGURE src=image/car.png?w=740&filter=grayscale&f1=colorize,0,30,0,0 caption="En fin bil som demobild, lite oklart hur den är representativ, men ändå..."]
+[FIGURE src=image/oophp.png?w=740&filter=grayscale]

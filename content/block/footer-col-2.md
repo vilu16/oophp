@@ -1,3 +1,4 @@
-#### Footer col 2
+#### Användbara länkar
 
-Med brödtext i ett stycke som säger något trevligt om just detta block, eller kanske en lista av länkar.
+[w3schools](https://www.w3schools.com/)
+[Github dokumentaion](https://git-scm.com/doc)
